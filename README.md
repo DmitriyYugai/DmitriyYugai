@@ -17,5 +17,9 @@
 ![JS](https://img.shields.io/badge/JS-ES6-brightgreen)
 ## Проекты
 ### Java проекты:
+
 ### Android проекты:
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=DmitriyYugai&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyYugai&layout=compact)](https://github.com/ShamRail/github-readme-stats)
